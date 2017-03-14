@@ -1,0 +1,8 @@
+[submodule "seq-align"]
+    path = seq-align
+    url = https://github.com/noporpoise/seq-align.git
+  branch = master
+[submodule "libpqueue"]
+    path = libpqueue
+    url = https://github.com/vy/libpqueue.git
+  branch = master
